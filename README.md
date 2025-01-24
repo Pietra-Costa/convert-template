@@ -1,4 +1,4 @@
-# Converter - Projeto de Conversão de Moedas para o Real
+# Convert - Projeto de Conversão de Moedas para o Real
 
 O **Converter** é um projeto desenvolvido em JavaScript para realizar a conversão de moedas estrangeiras para o Real Brasileiro (BRL). Ele permite que os usuários insiram valores em diferentes moedas e obtenham o equivalente em reais, utilizando taxas de câmbio atualizadas.
 
